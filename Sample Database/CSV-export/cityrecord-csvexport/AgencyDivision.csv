@@ -1,0 +1,202 @@
+﻿DivisionID,AgencyCode,DivisionName,DivisionAcronym,UpdatedDate,UpdatedBy
+1,856,Administration,ADMIN,2012-12-14 12:12:00.000,jerome
+2,856,Human Capital,DCPS,2012-12-14 12:37:00.000,jerome
+3,856,Citywide Equal Employment Opportunity,CEEO,2011-02-01 22:34:00.000,vmironov
+4,856,Energy Management,DEM,2011-02-01 22:35:00.000,vmironov
+5,856,Facilities Management and Construction,DFMC,2011-02-01 22:35:00.000,vmironov
+6,856,Fiscal Management and Operations,DFMO,2011-02-01 22:36:00.000,vmironov
+7,856,Municipal Supply Services,DMSS,2013-05-07 17:43:00.000,Eblachman
+8,856,Real Estate Services,DRES,2011-02-01 22:40:00.000,vmironov
+10,856,Contracts,NULL,2011-02-01 22:44:00.000,vmironov
+11,856,Management Information Systems,OMIS,2011-02-01 22:45:00.000,vmironov
+12,856,Media Services,NULL,2011-02-17 07:10:00.000,Vmironov
+13,856,Transportation Services,NULL,2011-02-01 22:45:00.000,vmironov
+14,856,City Record,NULL,2011-02-01 22:45:00.000,vmironov
+15,072,Central Office of Procurement,NULL,2011-02-14 06:16:00.000,Vmironov
+16,040,Contracts and Purchasing,NULL,2011-02-14 10:09:00.000,Vmironov
+17,816,Agency Chief Contracting Officer,NULL,2011-02-14 11:12:00.000,Vmironov
+18,071,Office of Contracts and Procurement,NULL,2011-02-14 11:24:00.000,Vmironov
+19,069,Contracts,NULL,2011-02-14 11:37:00.000,Vmironov
+20,032,Fiscal Services,NULL,2011-02-16 14:12:00.000,Vmironov
+21,856,Communications,COMU,2012-12-14 12:22:00.000,jerome
+26,030,City Planning Commission,NULL,2011-02-24 10:34:00.000,Vmironov
+30,N44,Agency Chief Contracting Officer,NULL,2011-03-10 08:26:00.000,Vmironov
+31,836,Treasury,NULL,2011-05-17 15:11:00.000,Vmironov
+32,NCB,Borough of the Bronx,NULL,2011-05-31 10:17:00.000,Vmironov
+33,NCB,Borough of Queens,NULL,2011-05-31 10:18:00.000,Vmironov
+34,NCB,Borough of Brooklyn,NULL,2011-05-31 10:18:00.000,Vmironov
+35,NCB,Borough of Manhattan,NULL,2011-06-01 15:49:00.000,Vmironov
+36,NBM,City Planning Commission,NULL,2011-06-01 17:01:00.000,Vmironov
+37,NBM,City Council,NULL,2011-06-01 17:02:00.000,Vmironov
+38,NBM,Contract Awards Public Hearing,NULL,2011-06-01 17:02:00.000,Vmironov
+39,NBM,Design Commission,NULL,2011-06-01 17:02:00.000,Vmironov
+40,NBM,Department of Education,NULL,2011-06-01 17:02:00.000,Vmironov
+41,NBM,Board of Elections,NULL,2011-06-01 17:02:00.000,Vmironov
+42,NBM,Environmental Control Board,NULL,2011-06-01 17:03:00.000,Vmironov
+43,NBM,Board of Health,NULL,2011-06-01 17:03:00.000,Vmironov
+44,NBM,Health Insurance Board,NULL,2011-06-01 17:03:00.000,Vmironov
+45,NBM,Board of Higher Education,NULL,2011-06-01 17:03:00.000,Vmironov
+46,NBM,Citywide Administrative Services,NULL,2011-06-01 17:03:00.000,Vmironov
+47,NBM,Commission on Human Rights,NULL,2011-06-01 17:03:00.000,Vmironov
+48,NBM,In Rem Foreclosure Release Board,NULL,2011-06-01 17:04:00.000,Vmironov
+49,NBM,Franchise And Concession Review Committee,NULL,2011-06-01 17:04:00.000,Vmironov
+50,856,Information Technology,IT,2011-06-02 18:12:00.000,Vmironov
+51,N26,Board of Trustees,NULL,2011-06-06 13:05:00.000,Vmironov
+52,214,Deferred Compensation Plan,NULL,2011-07-01 13:59:00.000,Vmironov
+53,ECB,Office of Administrative Trials and Hearings,NULL,2011-07-11 11:03:00.000,Vmironov
+58,NCB,Borough of Staten Island,BSI,2011-09-08 14:00:00.000,Vmironov
+59,015,Accountancy,NULL,2011-10-17 12:48:00.000,Vmironov
+60,CCC,Office of Rent Administration,NULL,2011-11-10 17:33:00.000,Vmironov
+61,056,Permits,NULL,2011-11-14 15:03:00.000,Vmironov
+62,069,Agency Chief Contracting Officer,ACCO,2011-12-09 13:01:00.000,Vmironov
+63,816,Tuberculosis Control,NULL,2011-12-28 17:23:00.000,Vmironov
+64,816,Ryan White Care Services,NULL,2011-12-28 17:23:00.000,Vmironov
+65,816,Procurement,NULL,2011-12-28 17:24:00.000,Vmironov
+66,816,Office of Contracts,NULL,2011-12-28 17:24:00.000,Vmironov
+67,816,OCME-Procurement,NULL,2011-12-28 17:24:00.000,Vmironov
+68,816,OCME-ACCO,NULL,2011-12-28 17:25:00.000,Vmironov
+69,816,Bureau of School Health,NULL,2011-12-28 17:26:00.000,Vmironov
+70,816,Bureau of HIV-AIDS,NULL,2011-12-28 17:26:00.000,Vmironov
+71,816,Bureau of Early Intervention,NULL,2011-12-28 17:26:00.000,Vmironov
+72,816,HOPWA,NULL,2011-12-28 17:29:00.000,Vmironov
+73,856,Asset Management,NULL,2012-05-10 13:25:00.000,Vmironov
+75,015,Fiscal & Budget Studies,NULL,2012-05-21 15:28:00.000,Vmironov
+76,836,Banking Commission,NULL,2012-05-21 15:38:00.000,Vmironov
+77,858,Franchise Administration,NULL,2012-05-21 16:09:00.000,Vmironov
+78,0SC,Richmond County,NULL,2013-03-11 12:12:00.000,jerome
+79,856,Office of Citywide Purchasing,,2014-03-03 12:13:41.260,Jmiller
+80,015,Asset Management,NULL,2012-06-15 17:38:00.000,Vmironov
+81,806,Intergovernmental,,2013-09-03 13:21:54.780,Jmiller
+86,N03,cvncvncvn1,NULL,2013-02-12 12:52:00.000,mbelarrem
+87,N03,dbvsdbsdb,NULL,2012-12-11 10:33:00.000,croladmin
+88,856,Office of the Commissioner,COMM,2012-12-14 12:00:00.000,jerome
+89,030,Land Use Review/Calendar Office,LandCal,2013-02-13 14:29:00.000,jerome
+90,856,Vendor Lists,NULL,2013-03-11 10:51:00.000,jerome
+91,846,Revenue and Concessions,NULL,2013-03-11 12:04:00.000,jerome
+92,781,Contract Procurement,NULL,2013-03-11 12:05:00.000,jerome
+93,044,Contract Services,NULL,2013-03-11 12:06:00.000,jerome
+94,N09,MTA Bridges and Tunnels,NULL,2013-03-11 12:06:00.000,jerome
+95,0SC,Queens County,NULL,2013-03-11 12:12:00.000,jerome
+96,0SC,Kings County,NULL,2013-03-11 12:13:00.000,jerome
+97,0SC,New York County,NULL,2013-03-11 12:13:00.000,jerome
+98,0SC,Bronx County,NULL,2013-03-11 12:13:00.000,jerome
+99,015,Bureau of Information System,NULL,2013-03-11 12:20:00.000,jerome
+100,826,Water Supply,NULL,2013-03-11 12:23:00.000,jerome
+101,801,Procurement,NULL,2013-03-11 12:24:00.000,jerome
+102,826,Watershed Protection and Planning,NULL,2013-03-11 14:17:00.000,jerome
+103,N04,Contracts,NULL,2013-03-11 14:18:00.000,jerome
+104,015,Audit Committee,NULL,2013-03-12 13:58:00.000,jerome
+105,841,"Franchises, Concessions & Consents",FCC,2013-03-15 08:16:00.000,jerome
+106,002,Office of Environmental Remediation,OER,2013-03-15 08:42:00.000,jerome
+115,136,Research,NULL,2013-06-19 19:23:00.927,Jmiller
+116,102,Land Use Division,NULL,2013-06-19 19:26:43.053,Jmiller
+117,OCS,Public Hearings Unit,NULL,2013-06-19 19:34:14.840,Jmiller
+118,156,Legal Affairs,TLC,2013-08-08 18:32:39.200,Jmiller
+119,056,Contract Administration,NYPD,2013-08-13 17:55:18.407,Jmiller
+120,866,Legislative Policy,DCA,2013-08-13 18:58:33.177,Jmiller
+121,827,Legal Affairs,DSNY,2013-08-13 19:00:45.267,Jmiller
+122,858,ACCO,DOITT,2013-08-13 19:04:17.527,Jmiller
+123,068,Administration,ACS,2013-08-13 19:33:55.467,Jmiller
+124,025,Administration,NYCLD,2013-08-14 13:40:04.347,Jmiller
+125,002,City Legislative Affairs,OOTM,2013-08-15 16:32:07.633,Jmiller
+126,820,General Counsel,OATH,2013-08-19 14:15:09.967,Jmiller
+127,002,Mayors Office of Contract Services,MOCS,2013-08-21 18:39:02.817,Jmiller
+128,826,Contract Management,DEP,2013-08-27 16:38:49.297,Jmiller
+129,996,Office of the Corporate Secretary,,2013-08-29 14:46:03.773,Jmiller
+130,826,Engineering Design and Construction,,2013-08-29 15:18:43.687,Jmiller
+131,826,Environmental Health and Safety,EHS,2013-08-29 15:20:33.080,Jmiller
+132,826,Wastewater Treatment,WWT,2013-08-29 15:20:50.850,Jmiller
+133,826,Water and Sewer Operations,WSO,2013-08-29 15:21:18.477,Jmiller
+134,801,Business Development,,2013-08-30 13:17:01.117,Jmiller
+135,846,Legal,,2013-08-30 13:20:08.577,Jmiller
+136,806,Legal Affairs,,2013-09-03 13:21:32.377,Jmiller
+137,ECB,General Counsel,,2013-09-05 11:04:03.367,Jmiller
+138,866,External Affairs,,2013-09-05 12:31:40.633,Jmiller
+140,030,Environmental Assessment and Review Division,,2013-09-05 16:20:21.177,Jmiller
+141,841,Traffic and Planning,,2013-09-06 11:27:22.627,Jmiller
+142,012,Land Use,,2013-09-09 11:14:38.107,Jmiller
+143,841,Legal Affairs,,2013-09-10 11:02:14.057,Jmiller
+144,260,Procurement,,2013-09-11 15:01:50.497,Jmiller
+145,846,Capital,,2013-09-11 15:11:36.323,Jmiller
+146,313,Legal,,2013-09-11 15:14:30.087,Jmiller
+147,127,Procurement Services,,2013-09-13 17:24:16.543,Jmiller
+148,801,Legal,,2013-09-13 17:25:41.880,Jmiller
+149,836,Legal Affairs,,2013-09-13 17:28:38.510,Jmiller
+150,810,General Counsel,,2013-09-13 18:03:48.787,Jmiller
+151,126,Agency Chief Contracting Officer,,2014-04-04 17:12:32.580,Jmiller
+152,806,Environmental Planning,,2013-09-16 15:42:36.037,Jmiller
+153,856,Lease Enforcement,,2013-09-17 16:37:03.557,Jmiller
+154,866,Licensing,,2013-09-19 20:07:02.763,Jmiller
+155,MOE,Operations,,2013-09-20 19:45:29.033,Jmiller
+156,826,Natural Resources,,2013-09-20 19:48:02.170,Jmiller
+157,030,Housing Economic and Infrastructure Planning,,2013-09-24 11:52:07.787,Jmiller
+158,030,Counsel,,2013-09-25 11:19:11.033,Jmiller
+159,125,Contract Procurement and Support Services,,2013-09-30 13:04:18.797,Jmiller
+160,BER,Legal,,2013-10-01 16:48:45.627,Jmiller
+161,OCS,Procurement,,2013-10-08 16:32:59.357,Jmiller
+162,N55,Commun Develop Block Grant Disaster Recovery,,2014-03-17 11:08:53.207,Jmiller
+163,002,Criminal Justice Coordinator,,2013-10-23 14:06:40.343,Jmiller
+164,826,Environmental Planning and Assessment,,2013-10-25 13:17:27.500,Eblachman
+165,826,Office of Green Infrastructure,,2013-10-25 13:15:59.010,Eblachman
+167,826,Legal,,2013-10-25 13:16:56.547,Eblachman
+168,801,Neighborhood Development,,2013-10-29 15:02:17.133,Jmiller
+169,057,Agency Chief Contracting Officer,,2013-10-29 14:45:09.323,Jmiller
+170,806,Administration,,2013-10-29 15:56:08.137,Jmiller
+171,057,Fiscal Services,,2013-10-30 13:13:11.033,Jmiller
+172,002,Housing Recovery Operations,,2013-11-06 13:12:51.577,Jmiller
+173,826,Environmental Compliance,,2013-11-13 11:28:21.753,Jmiller
+174,N04,Real Estate Transaction Services,,2013-11-13 11:34:23.613,Jmiller
+175,OCS,Special Projects,,2013-11-20 16:41:30.887,Jmiller
+176,025,Economic Development,,2013-11-21 13:26:07.557,Jmiller
+177,816,General Counsel,,2013-11-27 15:32:34.440,Jmiller
+178,069,Family Independence Administration,,2013-12-10 15:22:49.397,Jmiller
+179,858,General Counsel,,2013-12-12 09:42:19.763,Jmiller
+180,068,Procurement,,2013-12-16 13:59:56.030,Jmiller
+181,009,Executive,,2013-12-16 14:10:43.963,Jmiller
+182,004,Administrative Services,,2013-12-16 14:26:35.160,Jmiller
+183,903,Operations,,2013-12-16 14:41:13.203,Jmiller
+184,004,Legal,,2013-12-16 14:51:26.643,Jmiller
+185,312,Administration,,2013-12-17 11:40:07.960,Jmiller
+186,312,Legal,,2013-12-17 11:40:15.887,Jmiller
+187,131,Executive,,2013-12-20 09:57:14.343,Jmiller
+188,057,Legal Affairs,,2013-12-24 13:40:19.683,Jmiller
+189,057,Support Services,,2014-01-09 10:49:21.600,Jmiller
+190,044,Real Estate,,2014-01-10 12:45:50.740,Jmiller
+191,846,Contracts,,2014-02-18 15:48:07.013,Jmiller
+192,N55,Commun Develop Block Grant,,2014-03-28 10:27:41.530,Jmiller
+193,021,Administration,,2014-04-08 15:58:28.870,Jmiller
+194,826,Environmental Planning and Analysis,,2014-04-08 16:27:05.750,Jmiller
+195,038,General Counsel,,2014-04-11 11:25:47.177,Jmiller
+196,N04,Legal,,2014-04-16 13:33:30.147,Jmiller
+197,806,Building and Land Development Services,,2014-04-16 14:41:26.647,Jmiller
+198,069,Child Support Enforcement,,2014-04-17 16:10:28.707,Jmiller
+199,069,Customized Assistance,,2014-04-17 16:10:54.120,Jmiller
+200,069,Medical Insurance and Community Services,,2014-04-17 16:11:32.453,Jmiller
+201,069,Investigation Revenue and Enforcement,,2014-04-17 16:11:56.557,Jmiller
+202,069,HIV/AIDS Services Administration,,2014-04-17 16:12:29.053,Jmiller
+203,836,Administration and Planning,,2014-05-06 13:01:28.493,Jmiller
+204,025,Environmental Law,,2014-05-15 11:03:37.307,Jmiller
+205,015,Labor Law,,2014-05-20 13:52:13.667,Jmiller
+206,260,External Relations,,2014-05-21 09:43:15.957,Jmiller
+207,056,Police Pension Fund,,2014-05-28 14:16:55.550,Jmiller
+208,N26,Bronx Community College,BCC,2014-05-30 17:52:31.690,jmiller
+209,N26,City College,CCNY,2014-05-30 17:52:31.690,jmiller
+210,N26,City University of NY Central Office,CUNYCO,2014-05-30 17:52:31.690,jmiller
+211,N26,College of Staten Island,SICL,2014-05-30 17:52:31.690,jmiller
+212,N26,Borough of Manhattan Community College,BMCC,2014-05-30 17:52:31.690,jmiller
+213,N26,CUNY Graduate Center,CGC,2014-05-30 17:52:31.690,jmiller
+214,N26,CUNY Law School,CLS,2014-05-30 17:52:31.690,jmiller
+215,N26,Hostos Community College,HOCC,2014-05-30 17:52:31.690,jmiller
+216,N26,Hunter College,HCNY,2014-05-30 17:52:31.690,jmiller
+217,N26,John Jay,JJCL,2014-05-30 17:52:31.690,jmiller
+218,N26,Kingsborough Community College,KGCC,2014-05-30 17:52:31.690,jmiller
+219,N26,Lehman College,LEHM,2014-05-30 17:52:31.690,jmiller
+220,N26,Medgar Evers College,MEDG,2014-05-30 17:52:31.690,jmiller
+221,N26,New York City Technical College,TECH,2014-05-30 17:52:31.690,jmiller
+222,N26,Queens College,QCL,2014-05-30 17:52:31.690,jmiller
+223,N26,Queensborough Community College,QBCC,2014-05-30 17:52:31.690,jmiller
+224,N26,University Application Processing Center,UAPC,2014-05-30 17:52:31.690,jmiller
+225,N26,Baruch College,BARH,2014-05-30 17:52:31.690,jmiller
+226,N26,Brooklyn College,BKCL,2014-05-30 17:52:31.690,jmiller
+227,N26,LaGuardia Community College,LAGCC,2014-05-30 17:52:31.690,jmiller
+228,N26,York College,YORK,2014-05-30 17:52:31.690,jmiller
