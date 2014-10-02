@@ -1,0 +1,137 @@
+﻿agency_code,agency_name,agency_abbr,AddedForVTS,Mayoral,forVendors,CRPublicationAgencyName,AgencyDefaultAddress,UpdatedDate,UpdatedBy
+002,Office of the Mayor,OOM,NULL,1,1,NULL,NULL,2011-06-02 16:51:00.000,Vmironov
+003,Board of Elections,NYCBOE,NULL,1,1,NULL,"32 Broadway, 7 Fl, New York, NY 10004",2010-12-13 06:38:00.000,Vmironov
+004,Campaign Finance Board,CFB,NULL,0,1,NULL,"40 Rector Street, 7th Floor New York, NY 10006",2013-02-28 09:58:00.000,jerome
+008,Office of the Actuary,OACT,NULL,1,1,NULL,"75 Park Place, New York, NY 10007",2013-02-28 10:32:00.000,jerome
+009,Employees' Retirement System,NYCERS,NULL,1,1,NULL,NULL,2011-05-17 15:04:00.000,Vmironov
+010,Borough President - Manhattan,MBP,NULL,1,1,NULL,"1 Centre Street, New York, NY 10007",2013-05-02 11:46:00.000,Jmiller
+011,Borough President - Bronx,BXBP,NULL,1,1,NULL,"851 Grand Concourse, Ste. 301, Bronx, NY 10451",2013-05-02 11:30:00.000,Jmiller
+012,Borough President - Brooklyn,BKBP,NULL,1,1,NULL,"209 Joralemon Street, Brooklyn, NY 11201",2013-05-02 11:35:00.000,Jmiller
+013,Borough President - Queens,QBP,NULL,1,1,NULL,"120-55 Queens Boulevard Kew Gardens, NY 11424",2013-05-02 11:31:00.000,Jmiller
+014,Borough President - Staten Island,SIBP,NULL,1,1,NULL,"10 Richmond Terrace, Staten Island, NY 10301",2013-05-02 11:44:00.000,Jmiller
+015,Comptroller,OOC,NULL,1,1,NULL,"One Centre Street, New York, NY 10007",2013-03-11 12:19:00.000,jerome
+017,Office of Emergency Management,OEM,NULL,1,1,NULL,"165 Cadman Plaza E, Brooklyn, NY 11201",2013-02-28 10:30:00.000,jerome
+021,Tax Commission,NYCTC,NULL,1,1,NULL,"680 W 132nd St, New York, NY 10027",2013-03-01 08:48:00.000,jerome
+025,Law Department,NYCLD,NULL,1,1,NULL,"100 Church Street, New York, NY 10007",2013-05-02 12:07:00.000,Jmiller
+028,Art Commission,ARTC,x,1,1,NULL,NULL,2010-12-12 09:50:00.000,Vmironov
+030,City Planning,DCP,NULL,1,1,NULL,"22 Reade Street, New York, New York 10007",2013-04-18 15:12:00.000,Eblachman
+032,Investigation,DOI,NULL,1,1,NULL,n/a,2013-04-18 15:49:00.000,Eblachman
+037,New York Public Library,NYPL,NULL,1,0,NULL,NULL,NULL,NULL
+038,Public Library - Brooklyn,BKPL,NULL,0,0,NULL,"10 Grand Army Plaza, 3rd Floor, Brooklyn, NY 11238",2014-02-05 16:16:16.077,Jmiller
+039,Public Library - Queens,QPL,NULL,1,0,NULL,NULL,NULL,NULL
+040,Education,NYCDOE,NULL,0,1,NULL,"Tweed Courthouse 52 Chambers Street, New York, NY 10007",2013-03-11 11:58:00.000,jerome
+041,Teachers' Retirement System,TRS,NULL,1,1,NULL,"55 Water St, New York, NY 10041",2013-02-28 10:43:00.000,jerome
+044,School Construction Authority,SCA,NULL,0,1,School Construction Authority,NULL,2011-01-05 11:33:00.000,Vmironov
+054,Civilian Complaint Review Board,CCRB,NULL,1,1,Civilian Complaint Review Board,NULL,2011-01-05 11:14:00.000,Vmironov
+056,Police,NYPD,NULL,1,1,NULL,1 Police Plaza New York NY 10007,2013-03-11 10:50:00.000,jerome
+057,Fire Department,FDNY,NULL,1,1,NULL,NYC,2012-05-23 14:04:00.000,Vmironov
+059,Board of Standards and Appeals,BSA,NULL,1,1,NULL,NULL,2011-02-25 08:20:00.000,Vmironov
+068,Administration for Children's Services,ACS,NULL,1,1,NULL,"150 William Street 18th Floor, New York, NY 10038",2013-05-07 17:40:00.000,Eblachman
+069,Human Resources Administration,HRA,NULL,1,0,NULL,NULL,NULL,NULL
+071,Homeless Services,DHS,NULL,1,1,NULL,"33 Beaver Street, New York, NY 10004",2013-03-11 14:19:00.000,jerome
+072,Correction,DOC,NULL,1,1,NULL,"75-20 Astoria Blvd., East Elmhurst, NY 11370",2013-05-02 11:59:00.000,Jmiller
+073,Board of Correction,BOC,NULL,1,1,NULL,NULL,2010-12-14 05:51:00.000,Vmironov
+096,Human Resources Administration,HRA,NULL,1,1,NULL,"180 Water Street, 17th Floor, New York NY 10038",2011-08-23 05:47:00.000,Vmironov
+0SC,Supreme Court,SC,NULL,0,1,NULL,NULL,2011-07-07 11:17:00.000,Vmironov
+101,Public Advocate,NYCPA,NULL,1,1,NULL,"1 Centre Street, 15th Floor, New York, NY 10007",2013-02-28 10:39:00.000,jerome
+102,City Council,CC,NULL,1,1,City Council,NULL,2011-02-24 09:49:00.000,Vmironov
+103,City Clerk,CCLK,NULL,1,1,NULL,"141 Worth Street, New York, NY 10013",2013-02-28 09:59:00.000,jerome
+125,Aging,DFTA,NULL,1,1,NULL,N/A,2013-03-18 09:29:00.000,jerome
+126,Cultural Affairs,DCLA,NULL,1,1,NULL,N/A,2013-04-18 15:48:00.000,Eblachman
+127,Financial Information Services Agency,FISA,NULL,1,1,Financial Information Services Agency,NULL,2011-01-05 11:30:00.000,Vmironov
+128,Mayor's Office of Criminal Justice,MOCJ,x,1,0,NULL,NULL,NULL,NULL
+130,Juvenile Justice,DJJ,NULL,1,1,NULL,n/a,2013-04-18 15:50:00.000,Eblachman
+131,Office of Payroll Administration,OPA,NULL,1,1,NULL,"1 Centre Street, New York, NY 10007",2013-02-28 10:31:00.000,jerome
+132,Independent Budget Office,IBO,NULL,1,1,NULL,NULL,2011-06-03 10:20:00.000,Vmironov
+133,Equal Employment Practices Commission,EEPC,NULL,1,1,NULL,NULL,2011-03-01 11:27:00.000,Vmironov
+134,Civil Service Commission,CSC,NULL,1,1,NULL,N/A,2013-02-28 10:05:00.000,jerome
+136,Landmarks Preservation Commission,LPC,NULL,1,1,Landmarks Preservation Commission,NULL,2011-02-25 07:48:00.000,Vmironov
+138,Districting Commission,NYCDC,NULL,1,0,NULL,NULL,NULL,NULL
+156,Taxi and Limousine Commission,TLC,NULL,1,1,NULL,NULL,2011-06-06 13:48:00.000,Vmironov
+214,Office of Labor Relations,OLR,NULL,1,1,NULL,"40 Rector St, New York, NY 10006",2013-02-28 10:23:00.000,jerome
+226,Human Rights Commission,HRC,NULL,1,0,NULL,NULL,NULL,NULL
+256,New York City Police Pension Fund,NYCPPF,NULL,1,1,NULL,"233 Broadway, 19th Floor, New York , NY 10279",2011-09-26 13:45:00.000,Vmironov
+260,Youth and Community Development,DYCD,NULL,1,1,NULL,"1 Broadway, New York, NY 10002",2012-06-11 12:51:00.000,Vmironov
+312,Conflicts of Interest Board,COIB,NULL,1,1,NULL,City of New York,2011-09-28 14:39:00.000,Vmironov
+313,Office of Collective Bargaining,OCB,NULL,1,1,NULL,"40 Rector Street - 7th Floor, New York, NY 10006",2013-02-28 10:28:00.000,jerome
+511,Brooklyn Museum,BKM,NULL,1,0,NULL,NULL,NULL,NULL
+781,Probation,DOP,NULL,1,1,NULL,"33 Beaver Street, 23rd Floor New York NY 10004",2012-06-19 16:16:00.000,Vmironov
+801,Small Business Services,DSBS,NULL,1,1,NULL,"110 William Street, New York, NY 10038",2013-03-11 12:24:00.000,jerome
+806,Housing Preservation and Development,HPD,NULL,1,1,NULL,New York,2013-03-11 12:07:00.000,jerome
+810,Buildings,DOB,NULL,1,1,NULL,"280 Broadway, 7th Floor New York, NY 10007",2013-04-18 15:10:00.000,Eblachman
+816,Health and Mental Hygiene,DOHMH,NULL,1,1,Health and Mental Hygiene,NULL,2011-01-05 11:38:00.000,Vmironov
+819,Health and Hospitals Corporation,HHC,NULL,0,1,NULL,.,2013-05-02 12:07:00.000,Jmiller
+820,Administrative Trials and Hearings,OATH,NULL,1,1,NULL,"66 John Street, 10th Floor, New York, NY 10038",2013-05-03 20:25:00.000,Jmiller
+826,Environmental Protection,DEP,NULL,1,1,Environmental Protection,NULL,2011-06-27 15:58:00.000,Vmironov
+827,Sanitation,DSNY,NULL,1,1,NULL,"346 Broadway, 10th Floor New York, NY 10013",2013-04-18 15:47:00.000,Eblachman
+829,Business Integrity Commission,BIC,NULL,1,1,Business Integrity Commission,NULL,2011-01-05 11:09:00.000,Vmironov
+836,Finance,DOF,NULL,1,1,NULL,"66 John Street, New York, NY 10038",2013-04-18 15:49:00.000,Eblachman
+841,Transportation,DOT,NULL,1,1,NULL,"55 Water Street, New York, New York",2013-03-11 09:35:00.000,jerome
+846,Parks and Recreation,DPR,NULL,1,1,NULL,"The Arsenal Central Park, 830 Fifth Avenue, NY, NY 10065",2013-03-11 12:04:00.000,jerome
+850,Design and Construction,DDC,NULL,1,1,NULL,"30-30 Thomson Avenue, Long Island City, NY 11101",2013-03-11 11:54:00.000,jerome
+856,Citywide Administrative Services,DCAS,NULL,1,1,Citywide Administrative Services,NULL,2011-07-01 11:26:00.000,Vmironov
+858,Information Technology and Telecommunications,DOITT,NULL,1,1,NULL,"255 Greenwich, 9th Floor, New York, NY 10007",2013-03-11 12:02:00.000,jerome
+860,Department of Records and Information Services,DORIS,NULL,1,1,NULL,"31 Chambers Street, New York, NY 10007",2013-02-28 10:10:00.000,jerome
+866,Consumer Affairs,DCA,NULL,1,1,NULL,New York NY,2013-03-11 12:17:00.000,jerome
+901,District Attorney - New York County,DANY,NULL,1,1,NULL,"One Hogan Place, New York, NY 10013",2013-02-28 10:47:00.000,jerome
+902,District Attorney - Bronx County,DABX,NULL,1,1,NULL,"198 East 161st Street, Bronx, New York 10451",2013-02-28 10:46:00.000,jerome
+903,District Attorney - Kings County,DAKC,NULL,1,1,NULL,"350 Jay St #10  New York, NY 11201",2013-02-28 10:47:00.000,jerome
+904,District Attorney - Queens County,DAQ,NULL,1,1,NULL,"125-01 Queens Boulevard, Kew Gardens, New York, 11415",2013-02-28 10:47:00.000,jerome
+905,District Attorney - Richmond County,DAR,NULL,1,1,NULL,"130 Stuyvesant Pl  New York, NY 10301",2013-02-28 10:48:00.000,jerome
+906,Office of Special Narcotics Prose,OSNP,NULL,1,0,NULL,NULL,NULL,NULL
+911,County Clerk - New York,CLKM,x,1,0,NULL,NULL,NULL,NULL
+912,County Clerk- Bronx,CLKBX,x,1,0,NULL,NULL,NULL,NULL
+913,County Clerk - Kings,CLKK,x,1,0,NULL,NULL,NULL,NULL
+914,County Clerk - Queens,CLKQ,x,1,0,NULL,NULL,NULL,NULL
+915,County Clerk - Richmond,CLKR,x,1,0,NULL,NULL,NULL,NULL
+941,Public Administrator - New York County,PA/M,NULL,1,1,NULL,"31 Chambers Street, Room 311, New York, NY 10007",2013-02-28 10:37:00.000,jerome
+942,Public Administrator - Bronx County,PA/X,NULL,1,1,NULL,"851 Grand Concourse, Suite 336, Bronx, NY 10451",2013-02-28 10:35:00.000,jerome
+943,Public Administrator - Kings County,PA/K,NULL,1,1,NULL,"360 Adams Street, Room 144, Brooklyn, NY 11201",2013-02-28 10:36:00.000,jerome
+944,Public Administrator - Queens County,PA/Q,NULL,1,1,NULL,"88-11 Sutphin Blvd., Room 61, Jamaica, NY 11435",2013-02-28 10:38:00.000,jerome
+945,Public Administrator - Richmond County,PA/R,NULL,1,1,NULL,"130 Stuyvesant Place, Staten Island, NY 10301",2013-04-15 12:21:00.000,kcrespo
+996,Housing Authority,NYCHA,NULL,1,1,NULL,NULL,2011-07-06 15:50:00.000,Vmironov
+BBP,Brooklyn Bridge Park,BBP,NULL,1,1,NULL,Brooklyn Bridge Park Conservatory,2011-09-26 13:49:00.000,Vmironov
+BER,Board of Education Retirement System,BERS,NULL,0,1,NULL,NULL,2011-02-25 07:35:00.000,Vmironov
+BNY,Build NYC Resource Corporation,BNYCRC,NULL,0,1,NULL,"110 William Street, New York NY, 10038",2013-02-28 09:57:00.000,jerome
+CCC,Housing and Community Renewal,NYSDCHR,NULL,1,1,NULL,"1 Center Street, Basement, New York, NY 10007",2013-10-23 12:49:06.750,Jmiller
+CIP,Changes In Personnel,CIP,NULL,0,1,NULL,New York NY,2012-09-07 15:19:00.000,Vmironov
+CJ1,Criminal Justice Coordinator,CJC,NULL,0,1,NULL,"1 Centre Street, 5th Floor, New York, NY 10007",2013-06-10 13:33:00.000,Jmiller
+cpc,City Planning Commission,CPC,NULL,0,1,NULL,NULL,2011-06-01 15:40:00.000,Vmironov
+DCP,Deferred Compensation Plan Board,DCPB,NULL,0,1,NULL,N/A,2013-03-11 14:52:00.000,jerome
+ECB,Environmental Control Board,ECB,NULL,0,1,Environmental Control Board,NULL,2011-01-11 15:03:00.000,Vmironov
+ida,Industrial Development Agency,NYCIDA,NULL,0,1,NULL,"1 Centre Street, New York NY 10007",2011-07-11 11:30:00.000,Vmironov
+MFA,Mayor's Fund to Advance New York City,MFANYC,NULL,1,NULL,NULL,"253 Broadway, 8th Floor, New York, NY 10007",2014-05-29 10:36:16.093,Jmiller
+MOE,Mayor's Office of Environmental Coordination,MOEC,NULL,1,1,NULL,New York NY,2012-08-30 14:07:00.000,Vmironov
+MOo,Mayor's Office of Operations,MOO,NULL,1,1,NULL,City Hall New York NY 10008,2012-05-21 16:28:00.000,Vmironov
+n/a,Office of Administrative Tax Appeals,OATA,NULL,0,1,NULL,"1 Centre Street, Suite 2400, New York, New York10007",2013-05-03 20:26:00.000,Jmiller
+N01,Brooklyn Navy Yard Development Corp.,BNYDC,NULL,0,1,NULL,"63 Flushing Avenue, Brooklyn, NY 11205",2013-02-28 09:56:00.000,jerome
+N03,Battery Park City Authority,BPCA,NULL,1,1,NULL,NULL,2011-03-10 08:44:00.000,Vmironov
+N04,Economic Development Corporation,EDC,NULL,1,1,Economic Development Corporation,NULL,2011-01-05 11:28:00.000,Vmironov
+N06,Upper Manhattan Empowerment Zone,UMEZDC,NULL,0,1,NULL,NULL,2010-12-27 10:33:00.000,Vmironov
+N08,Technology Development Corporation,TDC,NULL,0,1,NULL,"15 Metrotech Center, 19th Floor, Brooklyn, New York 11201",2013-03-13 17:22:00.000,Eblachman
+N09,Triborough Bridge and Tunnel Authority,TBTA,NULL,0,1,NULL,N/A,2013-02-28 10:45:00.000,jerome
+N10,Port Authority of New York and New Jersey,PANYNJ,NULL,0,1,NULL,"2 Montgomery Street, 4th Floor, Jersey City, NJ 07302",2013-02-28 10:34:00.000,jerome
+N20,Water Board,NYCWB,NULL,1,1,NULL,"5917 Junction Boulevard 7th Floor, Flushing, NY 11373",2013-05-03 20:21:00.000,Jmiller
+N26,City University,CUNY,NULL,0,1,NULL,NULL,2011-02-25 06:57:00.000,Vmironov
+N44,Chief Medical Examiner,OCME,NULL,1,1,NULL,n/a,2013-04-19 10:01:00.000,Eblachman
+N50,Community Assistance Unit,CAU,x,1,0,NULL,NULL,NULL,NULL
+N55,Office of Management and Budget,OMB,NULL,1,1,NULL,"75 Park Pl, New York, NY 10007",2013-02-28 10:31:00.000,jerome
+N64,Educational Construction Fund,ECF,NULL,1,1,NULL,NULL,2011-03-01 09:55:00.000,Vmironov
+N65,Staten Island Rapid Transit Operating Authority,SIRT,NULL,0,1,NULL,"845 Bay St, Staten Island, NY 10304",2013-02-28 10:40:00.000,jerome
+N66,Marketing Development Corp,MDC,NULL,1,1,NULL,N/A,2013-02-28 10:24:00.000,jerome
+N67,Hudson River Park Trust,HRPT,NULL,0,1,NULL,"353 W St # 201  New York, NY 10014",2013-02-28 10:22:00.000,jerome
+N68,Metropolitan Transportation Authority,MTA,NULL,0,1,NULL,"341 Madison Ave #4, New York, NY",2013-02-28 10:26:00.000,jerome
+N69,NYC & Company,NYCC,NULL,0,1,NULL,NYC,2013-05-03 20:20:00.000,Jmiller
+N70,Rent Guidelines Board,RGB,NULL,0,1,Rent Guidelines Board,NULL,2011-01-06 14:17:00.000,Vmironov
+N71,Franchise And Concession Review Committee,FCRC,NULL,1,1,Franchise And Concession Review Committee,253 Broadway,2011-01-03 16:03:00.000,Eblachman
+NA2,Mayor's Office of Environmental Remediation,MOER,NULL,0,1,NULL,"100 Gold Street, 2nd Floor, New York, NY 10038",2013-06-21 17:01:00.000,Jmiller
+NBC,Banking Commission,NBC,NULL,0,1,Banking Commission,NULL,2011-02-05 04:47:00.000,Vmironov
+NBM,Board Meetings,BM,NULL,0,1,Board Meetings,NULL,2011-01-24 09:43:00.000,Vmironov
+NCB,Community Boards,NCB,NULL,0,1,Community Boards,NULL,2011-01-24 14:47:00.000,Vmironov
+NDC,Design Commission,NDC,NULL,0,1,NULL,NULL,2011-06-02 16:22:00.000,Vmironov
+NLB,Loft Board,NYCLB,NULL,0,1,NULL,NULL,2011-03-02 05:23:00.000,Vmironov
+OCS,Mayor's Office of Contract Services,MOCS,NULL,1,1,NULL,NULL,2011-07-01 16:56:00.000,Vmironov
+PPB,Procurement Policy Board,PPB,NULL,0,1,NULL,"253 Broadway, New York, New York 10007",2013-06-11 14:00:00.000,eblachma
+TCR,City Record,DCAS,NULL,1,NULL,NULL,"1 Centre Street, 17th Floor South, New York, NY 10007",2013-08-21 12:34:13.363,Jmiller
+TGI,Trust for Governors Island,TFGI,NULL,0,1,NULL,"10 South Street, Slip 7, New York, NY 10004",2011-09-26 14:09:00.000,Vmironov
+X03,BROOKLYN COMMUNITY BOARD 18,BKCB,x,1,0,NULL,NULL,NULL,NULL

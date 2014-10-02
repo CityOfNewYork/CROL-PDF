@@ -1,0 +1,14 @@
+﻿Approved,Descr,StatusDescription
+0,Pending Approval,"When a Draft CROL item is submitted by an Agency User its status changes to Pending Approval. Pending Approval item may be edited by an Agency User; in such case, its status changes back to Draft."
+1,Approved for Publication,City Record Office user may approve a CROL item with the current status Pending Approval or In Use by City Record Office. Only City Record Office user can cancel an item with this status. Agency User may initiate cancellation.
+2,Canceled,A City Record Office user may cancel a CROL item with Approved for Publication status. A Canceled item can be changed back to Approved for Publication status by a City Record Office user.
+3,Rejected,City Record Office user may reject CROL item with the Pending Approval status.
+4,Draft,"Initial status for CROL item. Items in Draft status can be deleted by Agency user or submitted. Once the item is submitted its status changes to the Pending Approval. After 30 calendar days, a Draft item along with its all components is automatically deleted from the CROL system."
+5,Deleted,NULL
+6,Pending Cancellation,NULL
+7,Archived,NULL
+12,OnLine Only,A CROL item that is not intended to be published in the print edition.
+13,In Print,"A CROL item with Approved for Publication status automatically becomes In Print by the batch nightly process on the Start Publication Date. Under normal circumstances, a CROL item with In Print status will be automatically changed to Published status during the scheduled nightly batch process on the date following the Last Publication Date."
+14,Published,A CROL item with In Print status will be automatically changed to Published status during the scheduled nightly batch process on the date following the Last Publication Date. A CROL item with OnLine Only status will be automatically changed to Published status during the scheduled nightly batch process on the date following the Event (Due) Date.
+15,In Use by City Record Office,"City Record Office user may edit a CROL item with Approved for Publication status. In this case City Record Office user has exclusive edit rights. If an Agency User needs to make any changes to such item, (s)he should call to the City Record Office."
+100,Not Assigned,NULL

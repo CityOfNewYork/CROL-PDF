@@ -1,0 +1,7 @@
+﻿SeqID,RejectionDescr
+1,Not informative or too short
+2,Wrong submitting steps
+3,Title is too long
+4,Duplicated content
+5,Written in non-English languages
+99,Other

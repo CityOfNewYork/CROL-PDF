@@ -1,0 +1,33 @@
+﻿method_Code,method_descr,special_case_reason
+1,Competitive Sealed Bids,  
+2,Competitive Sealed Bids/Pre-Qualified List,A 
+3,Competitive Sealed Proposals,SA
+4,Competitive Sealed Proposals/Pre-Qualified List,A 
+5,Negotiated Acquisition,SA
+6,Negotiated Acquisition/Pre-Qualified List,A 
+7,Intergovernmental Purchase,A 
+8,Sole Source,SA
+9,Required/Authorized Source,A 
+10,Required Method (including Preferred Source),  
+11,Contract with another Government,A 
+12,Line Item Appropriation or Discretionary Funds,A 
+13,Contract Change,  
+14,Small Purchase,  
+15,Renewal,  
+16,Emergency Purchase,A 
+17,Completion Contract,A 
+18,Demonstration Project,SA
+19,Client Services Waiver,SA
+20,Innovative Procurement,SA
+21,Cooperative Purchasing,A 
+22,BP/City Council Discretionary,NULL
+23,Request for Proposals,NULL
+24,RS,NULL
+25,Request for Qualifications,NULL
+26,CP/2,NULL
+27,CP/1,NULL
+28,IG/S,NULL
+29,Request for Information,NULL
+30,Public Bid,NULL
+31,Government to Government,NULL
+99,Other,NULL
