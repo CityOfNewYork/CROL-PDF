@@ -1,0 +1,17 @@
+﻿Notice_Code,Descr,IsForRegularAds
+1,Solicitation,0
+2,Award,0
+3,Vendor List,0
+4,Intent to Award,0
+5,Intent to Negotiate,0
+10,Public Meeting,0
+11,Public Hearings,1
+12,Meeting,1
+13,Notice,1
+14,Notice of Meetings,0
+15,Auction,0
+16,Public Hearing,0
+17,Investment Meeting,0
+20,Sale by Sealed Bid,0
+21,Sale by Auction,0
+22,Sale,1

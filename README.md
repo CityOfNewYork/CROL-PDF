@@ -9,7 +9,7 @@
 * [Press Release & News Articles](https://github.com/CityOfNewYork/CROL-PDF#press-releases-blog-posts-and-news-articles)
 
 ## About
-As the City embarks on implementing Intro 363-2014 and unlocking its daily actions, we are building a public workgroup to unlock the decades of historical information and make it accessible to all, at no charge. 
+As the City embarks on implementing [Intro 363-2014](http://legistar.council.nyc.gov/LegislationDetail.aspx?ID=1805811&GUID=2C43AAFE-A6EB-4B58-8DE2-C17D2E059C3D&Options=ID%7cText%7c&Search=363) and unlocking its daily actions, we are building a public workgroup to unlock the decades of historical information and make it accessible to all, at no charge. 
 
 Our group’s goal is to disassemble digital copies of City Record and convert them into usable notifications, words, dates, and events. We want to make solicitation procurement notices and awards, public hearings, meetings, court notices, property dispositions, agency public hearings, agency rules, and changes in personnel into a powerful archive for all. 
 
