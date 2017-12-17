@@ -11,7 +11,7 @@ Disclaimer. In case of conflicting document versions, please refer to documents 
 
 ###Open Standard Links
 
-* [Reference Standards.] (https://docs.google.com/document/d/1USFMTHfrmBzDvNW08b2f6osyl9I375d7h47uGcvxXjY/edit)
+* [Reference Standards.](https://docs.google.com/document/d/1USFMTHfrmBzDvNW08b2f6osyl9I375d7h47uGcvxXjY/edit)
 
 
 
@@ -67,7 +67,7 @@ For a list of current tasks, please see Issues.
 ## Press Releases, Blog Posts, and News Articles
 
 ### Blog Posts
-* [BetaNYC Statement](http://blog.betanyc.org/post/94088164367/betanycs-statement-on-the-signing-of-nycs-openlaw-and)
+* [BetaNYC Statement](https://beta.nyc/2014/08/07/betanycs-statement-on-the-signing-of-nycs/)
 
 ### Press Releases / News Articles 
 * [City Hall Press Release](http://www1.nyc.gov/office-of-the-mayor/news/393-14/mayor-bill-de-blasio-signs-two-transparency-bills-law-public-private-partnership-to)
